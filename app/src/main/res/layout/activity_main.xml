@@ -90,6 +90,7 @@
             android:layout_marginTop="70dp"
             android:backgroundTint="@color/black"
             android:text="SIGN IN"
+            android:textStyle="bold"
             android:background="@drawable/round_corner"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
