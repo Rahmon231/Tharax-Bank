@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553950244081",
+    "project_id": "tharax-bank",
+    "storage_bucket": "tharax-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553950244081:android:2eb8e4725a5621c2048d50",
+        "android_client_info": {
+          "package_name": "com.lemzeeyyy.tharaxbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553950244081-ah2q18kr96l4ms7ns9ghv8gp5advu3h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzrLw-oknjlYT5nacQB48MRbEYCk5btos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553950244081-ah2q18kr96l4ms7ns9ghv8gp5advu3h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
