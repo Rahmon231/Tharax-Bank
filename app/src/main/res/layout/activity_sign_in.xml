@@ -53,7 +53,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:hint="ID NUMBER/EMAIL"
-                android:inputType="number|textEmailAddress" />
+                android:inputType="textEmailAddress" />
         </LinearLayout>
 
         <LinearLayout

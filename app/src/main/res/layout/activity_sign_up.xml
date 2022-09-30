@@ -48,6 +48,7 @@
         <EditText
             android:id="@+id/edittext_id_name_sign_up"
             android:gravity="center"
+            android:inputType="textPersonName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Name"/>
@@ -71,12 +72,12 @@
             android:src="@drawable/icon_user"/>
 
         <EditText
-            android:id="@+id/edittext_id_number_sign_up"
+            android:id="@+id/email_sign_up"
             android:gravity="center"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="numberDecimal"
-            android:hint="ID NUMBER"/>
+            android:inputType="textEmailAddress"
+            android:hint="EMAIL"/>
     </LinearLayout>
 
     <LinearLayout
